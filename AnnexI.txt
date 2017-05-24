@@ -1,0 +1,29 @@
+SEQENCE ID                     TM SP PREDICTION
+Q8TCT8|PSL2_HUMAN               9  Y n10-20c25/26o170-189i215-240o246-268i289-306o312-329i341-361o392-422i434-458o464-481i
+
+ID   Q8TCT8|PSL2_HUMAN
+FT   SIGNAL        1     25       
+FT   DOMAIN        1      9       N-REGION.
+FT   DOMAIN       10     20       H-REGION.
+FT   DOMAIN       21     25       C-REGION.
+FT   DOMAIN       26    169       NON CYTOPLASMIC.
+FT   TRANSMEM    170    189       
+FT   DOMAIN      190    214       CYTOPLASMIC.
+FT   TRANSMEM    215    240       
+FT   DOMAIN      241    245       NON CYTOPLASMIC.
+FT   TRANSMEM    246    268       
+FT   DOMAIN      269    288       CYTOPLASMIC.
+FT   TRANSMEM    289    306       
+FT   DOMAIN      307    311       NON CYTOPLASMIC.
+FT   TRANSMEM    312    329       
+FT   DOMAIN      330    340       CYTOPLASMIC.
+FT   TRANSMEM    341    361       
+FT   DOMAIN      362    391       NON CYTOPLASMIC.
+FT   TRANSMEM    392    422       
+FT   DOMAIN      423    433       CYTOPLASMIC.
+FT   TRANSMEM    434    458       
+FT   DOMAIN      459    463       NON CYTOPLASMIC.
+FT   TRANSMEM    464    481       
+FT   DOMAIN      482    520       CYTOPLASMIC.
+//
+
